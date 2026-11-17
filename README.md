@@ -3,6 +3,7 @@
 A single-page portfolio covering product/UI design, AI automation, security, and home-lab work, styled as a technical drawing set (blueprint concept, tied to an AutoCAD drafting background).
 
 Live site: https://sansctf.github.io/brandon-portfolio/
+Primary copy: https://portfolio.dabbydabs.com/ (this site mirrors it; page links are relative so it works under the /brandon-portfolio/ path).
 
 ## Run locally
 
